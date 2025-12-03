@@ -49,8 +49,8 @@ A aplicação recebe uma imagem de Raio-X de tórax, processa através de uma Re
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-    cd NOME-DO-REPO
+    git clone [[https://github.com/Sistema-de-Detec-o-de-Pneumonia-via-Raio-X-IA-.git](https://github.com/Igomes11/Sistema-de-Detec-o-de-Pneumonia-via-Raio-X-IA-.git)]
+    cd Sistema-de-Detec-o-de-Pneumonia-via-Raio-X-IA-
     ```
 
 2.  **Instale as dependências:**
@@ -90,7 +90,10 @@ O sistema registra logs de confiança para evitar falsos negativos, recomendando
 ## 👨‍💻 Autores
 
 * **Igor Gomes** - *Desenvolvimento e Treinamento do Modelo*
-* [Nome dos outros integrantes do grupo]
+* **Hérik Thiury** - *Desenvolvimento e Treinamento do Modelo*
+* **Edson Elias** - *Desenvolvimento e Treinamento do Modelo*
+* **João Pedro Neves** - *Desenvolvimento e Treinamento do Modelo*
+* **Guilherme Carlos** - *Desenvolvimento e Treinamento do Modelo*
 
 ---
 
